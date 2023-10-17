@@ -1,6 +1,6 @@
 # PCLP
 
-# Tema 1 
+# Tema 1 https://github.com/ClaudiaA18/PCLP1/tree/main/TEMA%201%20PCLP
 - 'problem1.c' - Problema I - Anagrame
   
 - 'problem2.c' - Problema II - Sah
