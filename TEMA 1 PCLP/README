@@ -1,0 +1,26 @@
+Problema 1
+	- Mai putin de o ora
+	- Am aflat daca 2 cuvinte sunt anagrame folosind vectori de frecventa
+	- Am calculat gradul numarand pe cate pozitii avem caractere diferite la cele 2 cuvinte, impartim acest numar la lungimea stringului
+	- Am sortat cuvintele folosind selection sort, am comparat lexicografic cuvintele folosind strcmp
+
+Problema 2
+	- O ora jumatate
+	- Am determinat pe ce diagonale sta fiecare nebun
+	- Pentru ca nebunii se ataca intre ei cate 2, am calculat combinari de N luate cate 2
+	- Daca sunt doar 2 nebuni care se ataca intre ei, atunci se poate face o miscare sa nu se mai atace doar daca nu sunt amandoi in colturi opuse ale tablei de sah, adica daca nu se afla pe prima si ultima diagonala
+
+
+Problema 3
+	- 5+ ore
+	- Am declarat mai multe constante pentru a face codul mai usor de citit, FRONT = 0, BACK = 1, etc
+	- Cubul rubik e reprezentat de o matrice 3 dimensionala, la care se mai adauga o dimensiune care tine caracterele culorii
+	- Pentru fiecare miscare am rotit fata cubului la care ne uitam
+	- O miscare X roteste matricea in sens ceasornic, iar X' in sens trigonometirc
+	- Dupa ce am miscat fata la care ne uitam, am miscat si celelalte fete adiacente (toate inafara de cea opusa)
+
+Problema 4
+	- O ora jumatate
+	- Am implementat functiile cerute, plus una de min, pentru a putea realiza operatia booleana (1 + 1 = 1), am spus ca orice rezultat va fi minimul dintre el insusi si 1, pentru a nu obtine valori mai mari de 1
+	- Am generat matricile A, A * At si A * A
+	- Am determinat care are scorul mai mare si am afisat numerle corespunzatoare, folosind functia bin_to_dec

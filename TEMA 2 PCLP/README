@@ -1,0 +1,26 @@
+util.h:
+    - Trei ore
+    - Am initializat toate structurile si functiile necesare pentru restul fisierelor
+    - Functia add_website initial era doar pentru sirul principal de site-uri
+    - Dar dupa am modificat-o sa primeasca ca si parametru struct website**
+    - Dupa aceasta modificare am putut folosi aceeasi functie pentru a consturi si alte siruri
+task1.c:
+    - 2 minute
+    - Inainte sa fac util.h, afisam site-urile pe masura ce le adaugam in sir
+    - Dupa ce le-am separat, task1 a ramas doar un for cu printf
+task2.c:
+    - Trei ore
+    - Am citit tot de la stdin, caracter cu caracter
+    - Am facut un sir cu toate cuvintele, asta pentru ca nu merge sa folosesti 2 strtok-uri deodata
+    - Pentru ca strtok salveaza pointerul curent intr-o variabila globala
+    - Am folosit un sir de frecventa pentru a determina pt fiecare site daca sa il afisam sau nu
+task3.c:
+    - Doua ore
+    - Cam la fel ca la task2, dar pe langa se adauga si acel cuvant cu -
+    - Am verificat daca macar un cuvant de la stdin se afla in continutul site-ului
+    - Dar daca are si cuvantul cu - atunci nu l-am marcat in sirul de frecventa
+task4.c:
+    - 4+ Ore (2 din ele din cauza ca in continutul site-ului era un '\n' in plus)
+    - Am citit de la stdin toate url-urile, si am verificat daca exista in lista de site-uri
+    - Daca exista atunci am calculat checksum-ul
+    - rotl si rotr le-am implementat facand k % 8 permutari circulare pe reprezentatia binara a fiecarui char 
