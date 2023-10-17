@@ -2,10 +2,10 @@
 
 # PCLP Assignment I
 
-- 'problem1.c' - Problem I - Anagrams: You need to read pairs of words, check if they are anagrams, and sort them by degree.
-- 'problem2.c' - Problem II - Chess: You have to work with a chessboard and determine how many pairs of bishops are attacking each other and if it's possible to move one of them to avoid the attacks.
-- 'problem3.c' - Problem III - Rubik’s Cube: You need to work with a 3x3x3 Rubik's cube and perform various operations on it to achieve the correct results.
-- 'problem4.c' - Problem IV - X and 0: You have to work with matrices and perform operations with matrices to determine which one has the highest score in the game of X and 0.
+- 'problem1.c' - Anagrams
+- 'problem2.c' - Chess
+- 'problem3.c' - Rubik’s Cube
+- 'problem4.c' - X and 0
 
 # PCLP Assignment II
 
@@ -27,40 +27,20 @@ The "Biju's Browser" assignment involves developing a search engine and a text-b
 - Implementing search pages, results, and displaying web page content.
 - Integrating commands for interface navigation.
 
-# Laboratory Assignments
-
-## Laboratory 01 - Seminar
-In this introductory session, you will get familiar with the laboratory setup and receive an overview of the course structure.
-
-## Laboratory 02 - Input and Output Functions
-Explore functions for reading and writing data, an essential aspect of programming.
-
-## Laboratory 03 - C Language Instructions
-Delve into the fundamental instructions and syntax of the C programming language.
-
-## Laboratory 04 - Arrays
-Learn about arrays, a crucial data structure for storing and manipulating collections of data.
-
-## Laboratory 05 - Function Definition and Usage
-Understand the concepts of defining and using functions, a fundamental building block of any program.
-
-## Laboratory 06 - Functions with Arrays
-Expand your knowledge by working with functions that involve arrays.
-
-## Laboratory 07 - Functions with Pointers; Character Strings
-Discover the power of working with pointers and character strings in C.
-
-## Laboratory 08 - Dynamic Allocation
-Learn about dynamic memory allocation, a key concept for efficient memory management.
-
-## Laboratory 09 - Structures, Enums, Unions
-Explore structured data types like structures, enumerations, and unions.
-
-## Laboratory 10 - Function Pointers; Bitwise Operators
-Dive into function pointers and bitwise operators for more advanced programming techniques.
-
-## Laboratory 11 - Text Files; Command Line Arguments
-Learn about file handling with text files and processing command line arguments.
+# Laboratoare
+## Laborator 01 - Introducere
+## Laborator 02 - Funcții de citire și scriere
+## Laborator 03 - Instrucțiunile limbajului C
+Laborator 04 - Tablouri
+Laborator 05 - Definire și utilizare funcții
+Laborator 06 - Funcții cu vectori
+Laborator 07 - Funcții cu pointeri; Șiruri de caractere
+Laborator 08 - Alocare dinamică
+Laborator 09 - Structuri-Enumerări-Uniuni
+Laborator 10. Pointeri la funcţii. Operatori pe biţi.
+Laborator 11. Fişiere text. Argumente în linia de comandă
+Laborator 12. Fişiere binare
+Laborator 13. Tipuri generice. Funcţiile qsort şi bsearch
 
 ## Laboratory 12 - Binary Files
 Extend your knowledge to work with binary files, essential for various data storage tasks.
